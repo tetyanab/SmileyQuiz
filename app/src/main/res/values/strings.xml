@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Smiley Quiz</string>
+
+    <!--Question displayed above the button choices.-->
+    <string name="question">What best describes this smiley?</string>
+
+    <!--Names of buttons describing possible smiley emotions.-->
+    <string name="smiley_sad">Sad</string>
+    <string name="smiley_happy">Happy</string>
+    <string name="smiley_angry">Angry</string>
+    <string name="smiley_crying">Crying</string>
+    <string name="smiley_bored">Bored</string>
+    <string name="smiley_surprised">Surprised</string>
+    <string name="smiley_shy">Shy</string>
+    <string name="smiley_curious">Curious</string>
+
+    <!--Button "Next" to proceed to the next question.-->
+    <string name="next">Next</string>
+
+    <!--Text field for a free input answer.-->
+    <string name="answer">Answer</string>
+
+    <!--Text shown inviting the user to see the score.-->
+    <string name="score">You are done!\nTap the button to see the result.</string>
+
+    <!--Button for showing the score in the end.-->
+    <string name="show_score">Show score</string>
+</resources>
